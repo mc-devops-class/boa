@@ -4,3 +4,5 @@ echo "The lord is good"
 echo "I will be wealthy before the end of"
 date +%Y
 echo "Beacause God's favor is upon my life"
+echo "The lord is my shepherd"
+echo "I shall not want"
