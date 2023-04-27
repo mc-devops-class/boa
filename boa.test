@@ -9,3 +9,4 @@ Date
 echo "password created successfully"
 echo "new user $username created successfully"
 Time
+love
