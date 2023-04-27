@@ -1,0 +1,11 @@
+#!/bin/sh
+#This script will create a new user and asingn password
+echo "Please enter the new user's name you want to create"
+echo "username"
+echo "The user's name entered is $username"
+echo "$username accepted"
+echo "Now set password for $username"
+Date
+echo "password created successfully"
+echo "new user $username created successfully"
+Time
