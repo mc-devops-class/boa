@@ -1,0 +1,10 @@
+#!/bin/bash
+#names of software engineers
+echo "paul"
+echo "jake"
+echo "karim"
+echo "fred"
+echo "andy"
+echo "silas"
+echo "john"
+
